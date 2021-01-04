@@ -1,12 +1,33 @@
-# Sample Snack app
+<h1 align="center">
+  Cronômetro
+</h1>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+<h1 align="center">
+  <img src="https://ik.imagekit.io/i2b0fdzq04n/tr:w-333,h-555,cm-extract,x-27,y-70/Captura_de_tela_2021-01-03_213443_dMKqaofQR.png" />
+  <img src="https://ik.imagekit.io/i2b0fdzq04n/tr:w-333,h-555,cm-extract,x-23,y-58/Captura_de_tela_2021-01-03_213607__5hKVIVp0u.png" /> 
+</h1>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+## 🧾✍🏼 Sobre
+O Projeto **Cronômetro** foi um App feito para melhorar as técnicas de Desenvolvimento de Software.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+## 🚀 Tecnologia utilizada
+O Projeto foi desenvolvido com a seguinte tecnologia
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
-# Cronometro
+- [React-Native](https://reactnative.dev/)
+
+## 📁 Como baixar o projeto
+
+```bash
+  # Clonar o repositório
+  $ git clone https://github.com/Biel-coder/Cronometro
+  
+  # Entrar no diretório
+  $ cd Cronometro
+  
+  # Instalar as dependências
+  $ yarn install
+  
+  # Iniciar o projeto
+  $ yarn start
+```
